@@ -21,3 +21,5 @@ while(True):
     except:
         print('---Finished---')
         break
+
+driver.quit()
