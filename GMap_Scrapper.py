@@ -76,7 +76,6 @@ def get_places(url):
 			if img_url is not None:
 				print(img_url)
 			print("----------------------------------------")
-		print("=========================================")
 		try:
 			button.click()
 			time.sleep(2)
